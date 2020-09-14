@@ -1,0 +1,275 @@
+.banner-home {
+    background-image: url(../seadanya/images/banner.jpg);
+    width: 1349px;
+    height: 600px;
+
+}
+.kiri{
+    float: left;
+    width: 47%;
+    text-align: center;
+    padding-top: 4%;
+}
+.kiri h3{
+    font-size: 64px;
+    background-color: yellow;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+    float: left;
+    margin: 10px 10px 0px 80px;
+}
+.kanan{
+    width: 50%;
+    float: right;
+}
+.kanan img {
+    max-width: 100%;
+    width: auto;
+    height: auto;
+    display: block;
+    margin: 0px 90px 0px 0px;
+}
+p.atas {
+    color: white;
+    font-size: 27.2px;
+    background-color: rgb(71, 71, 71);
+    text-align: left;
+    padding: 0px 150px 10px 10px;
+    margin: 330px 0px 1px 80px;  
+    width: 250px;
+    height: 38px;
+}
+p.tengah {
+    color: white;
+    font-size: 27.2px;
+    background-color: rgb(71, 71, 71);
+    text-align: left;
+    padding: 0px 20px 10px 10px;
+    margin: 5px 0px 1px 80px;  
+    width: 350px;
+    height: 38px;
+}
+p.bawah {
+    color: white;
+    font-size: 27.2px;
+    background-color: rgb(71, 71, 71);
+    text-align: left;
+    padding: 0px 40px 10px 10px;
+    margin: 5px 0px 1px 80px;  
+    width: 250px;
+    height: 38px;
+}
+.order {
+    float: right;
+    margin: 3px 30px 0px 0px;
+    border: none;
+    border-bottom: 2px solid orange;
+    background-color: black;
+    padding: 10px 30px;
+    text-align: center;
+    font-size: 15.84px;
+    cursor: pointer;
+}
+.order a{
+    color: white;
+}
+
+.order:hover{
+    background-color: grey;
+}
+.body-home{
+    background-color: #f6f6f6;
+    width: 1349px;
+    height: 2008px;
+}
+.first-body h1{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 0px;
+    padding-top: 60px;
+}
+
+.first-body h4 {
+    text-align: center;
+    font-size: 23px;
+    margin-bottom: 60px;
+}
+.big-box{
+    margin: 0px 67px 0px 67px;
+    /* width: 1349px; */
+    height: 512px;
+}
+.column{
+    display: block;
+    float: left;
+    margin: 0% 0 0% 20px;
+    cursor: pointer;
+    background-color: yellow;
+}
+
+.square1 img{
+    display: block;
+}
+.square1 {
+    display: block;
+    margin: 0px 0px 0px 0px;
+    height: 250px;
+    width: 300px;
+}
+
+.square1-text {
+    background-color: grey;
+    padding: 20px;
+}
+
+.square1-text {
+    color: white;
+    text-transform: uppercase;
+    font-size: 24px;
+    width: 260px;
+    height: 100px;
+    margin: 0px;
+}
+.square1-text h4 {
+    margin: 20px 0px 20px 0px;
+}
+
+.square1-text span {
+    color: yellow;
+    font-size: 12px;
+    float: right;
+    text-transform: lowercase;
+}
+
+.square2 {
+    text-align: center;
+    padding: 26px 0px 10px 0px;
+    width: 270px;
+    height: 220px;
+}
+
+.square2 img {
+    padding: 16px 0px 10px 0px;
+}
+
+.square2 h4 {
+    font-size: 24px;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+
+.square2 p {
+    padding: 20px;
+    background-color: gray;
+    margin: 0px 0px 16px 0px;
+    color: white;
+    font-size: 17px;
+}
+
+.square3 {
+    text-align: center;
+    padding: 26px 0px 10px 0px;
+    width: 270px;
+    height: 220px;
+}
+
+.square3 img {
+    padding: 16px 0px 10px 0px;
+}
+
+.square3 h4 {
+    font-size: 24px;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+
+.square3 p {
+    padding: 20px;
+    background-color: gray;
+    margin: 0px 0px 16px 0px;
+    color: white;
+    font-size: 17px;
+}
+
+.square4 {
+    text-align: center;
+    padding: 26px 0px 10px 0px;
+    width: 270px;
+    height: 220px;
+}
+
+.square4 img {
+    padding: 16px 0px 10px 0px;
+}
+
+.square4 h4 {
+    font-size: 24px;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+
+.square4 p {
+    padding: 20px;
+    background-color: gray;
+    margin: 0px 0px 16px 0px;
+    color: white;
+    font-size: 17px;
+}
+
+.center-body {
+    background: url(../images/bg-h2.png)repeat-x center;
+    font-size: 15px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.bottom-center{
+    color: yellow;
+    background-color: darkgray;
+    width: auto;
+    height: auto;
+    margin: 0px 550px 0px 550px;
+    padding: 7px 42px;
+}
+
+.center-body p {
+    font-size: 20px;
+}
+
+.grid{
+    cursor: pointer;
+    margin-bottom: 50px;
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+    margin-left: 250px;
+}
+
+.kolom {
+    flex: 25%;
+    max-width: 25%;
+    padding: 0 4px;
+
+}
+  
+.kolom img {
+    margin-top: 8px;
+    vertical-align: middle;
+    width: 100%;
+}
+
+@media screen and (max-width: 800px) {
+.column {
+    flex: 50%;
+    max-width: 50%;
+}
+}
+
+@media screen and (max-width: 600px) {
+.column {
+    flex: 100%;
+    max-width: 100%;
+}
+}

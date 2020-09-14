@@ -1,0 +1,22 @@
+@import "nav.css";
+@import "home.css";
+@import "contact.css";
+
+body {
+    font-family: "century Gothic", Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+ }
+ 
+ .head{
+     display: block;
+     background-color: #f78c00;
+     height: 133px;
+ }
+ div {
+     display: block;
+ }
